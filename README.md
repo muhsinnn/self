@@ -1,4 +1,4 @@
-div align=center> 
+
   <h1> Hi! I'm Abdul 👋 </h1>
 </div>
 
